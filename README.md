@@ -1,4 +1,4 @@
-### Howdy 🤠
+### Hello!
 
 - 🧗🏻 I'm currently developing a rock climbing journal.
 - 🌱 I’m currently learning about neural networks.
